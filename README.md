@@ -14,3 +14,13 @@ python的基本知识
     
   处理后  
   ![image](https://github.com/JinMana/python-basis/blob/master/images/a.png)  
+
+3、loss_function  
+    平方误差  
+    ![image4](https://github.com/JinMana/python-basis/blob/master/images/1.jpg)  
+    绝对误差  
+    ![image5](https://github.com/JinMana/python-basis/blob/master/images/2.jpg)  
+    Huber  
+    ![image6](https://github.com/JinMana/python-basis/blob/master/images/3.jpg)  
+    log cosh  
+    ![image7](https://github.com/JinMana/python-basis/blob/master/images/4.jpg)  
